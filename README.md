@@ -23,9 +23,4 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-<div align="center">
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=D4rkNight17&color=red&style=for-the-badge)
-
 </div>
